@@ -1,5 +1,5 @@
-hi im butcherbird or shrike, im gay
-he him
+hi im butcherbird or shrike, im gay.
+he him for me,
 im ok at css and html, shit at javascript (ty typescript for existing)
 
 <!---
